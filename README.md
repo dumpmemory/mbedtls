@@ -4,12 +4,6 @@ Mbed TLS is a C library that implements cryptographic primitives, X.509 certific
 
 Mbed TLS includes a reference implementation of the PSA Cryptography API. This is currently a preview for evaluation purposes only.
 
-## Build
-
-```bash
-sh build.sh
-```
-
 ## License
 
 The [mbedtls](LICENSE).
